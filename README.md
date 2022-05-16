@@ -49,8 +49,10 @@
 ```
 
 ## Data set
-download the file from `https://www.aliyundrive.com/s/dWXFzwNYexe` and replace `datasets` dict.
+download the file from [](https://www.aliyundrive.com/s/dWXFzwNYexe) and replace `datasets` dict.
 
+## Other Model
+More model: [](https://huggingface.co/models)
 
 ## how to use
 Given a parameter example:

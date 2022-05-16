@@ -1,4 +1,4 @@
-## Model Structure
+## System Structure
 ```
 ./
 ├── README.md
